@@ -1,7 +1,7 @@
 
 const ApplyLeave = () => {
   return (
-    <div>ApplyLeave</div>
+    <div>ApplyLeave employee</div>
   )
 }
 
